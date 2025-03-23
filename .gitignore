@@ -1,0 +1,22 @@
+# Ignore SafeTensors files
+*.safetensors
+
+# Ignore common system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (if using Node.js)
+node_modules/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore environment files
+.env
+.env.local
